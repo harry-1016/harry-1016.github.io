@@ -3,7 +3,7 @@
   "target": {
     "namespace": "android_app",
     "package_name": "com.harry1016.tradelog.twa",
-    "sha256_cert_fingerprints": ["3E:DB:80:F5:46:82:D4:D3:51:5F:1C:9A:57:50:D1:8D:D7:CC:9E:27:AA:C4:49:95:67:2E:09:93:71:D7:95:D3"]
+    "sha256_cert_fingerprints": ["5D:1D:F6:EB:A3:6B:E8:89:6E:AF:A3:50:04:91:07:60:18:B1:26:E9:6A:F8:27:C8:CB:71:DC:5B:93:2E:2E:D0"]
   }
 }]
 
