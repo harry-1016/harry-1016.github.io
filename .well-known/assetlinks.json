@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.harry1016.tradelog.twa",
+    "package_name": "io.github.harry_1016.twa",
     "sha256_cert_fingerprints": ["5D:1D:F6:EB:A3:6B:E8:89:6E:AF:A3:50:04:91:07:60:18:B1:26:E9:6A:F8:27:C8:CB:71:DC:5B:93:2E:2E:D0"]
   }
 }]
